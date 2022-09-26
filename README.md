@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis
+# MechaCar Statistical Analysis
 AutosRUs newest prototype is the MechaCar. Unfortunately, the MechaCar is suffering from production troubles that are blocking the manufacturing team's progrsss. Production data for 50 prototype MechaCars regarding vehicle length, vehicle weight, spoiler angle, ground clearance, AWD and MPG were provided to perform data analysis to help the manufacutirng team gain insight into the production delays.
 
 # Results
