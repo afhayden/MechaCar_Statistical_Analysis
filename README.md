@@ -17,7 +17,7 @@ The summary of the calculated linear regression model shows that the vehicle len
 
 The slope of the linear model is not zero because the P-value for the intercept is far smaller than the declared significance level of 0.05. This means the intercept is not zero and is significantly impactful in regards to the MPG.
 
-![Mulitiple Linear Plots](images/multiple_linear_plots.PNG)
+![Mulitiple Linear Plots](images/multiple_linear_plots.png)
 
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
